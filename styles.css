@@ -89,13 +89,17 @@ body {
   nav ul li ul.dropdown li:hover{
     font-size: 18px;
     font-weight: 600;
+    color: whiite;
+
   }
   
   nav ul li:hover ul.dropdown{
-    display: block;
+    display: block;    
+    color: white;
   }
   nav ul li a:hover {
     background-color: #555;
+    color: white;
   }
   
   nav ul li.with-dropdown{
